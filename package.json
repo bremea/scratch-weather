@@ -1,0 +1,18 @@
+{
+  "name": "sproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bremea",
+  "license": "MIT",
+  "dependencies": {
+    "image-downloader": "^4.0.1",
+    "scratch-api": "^1.1.11",
+    "scratch3-bridge": "^2.1.0",
+    "weather": "^1.0.4",
+    "weather-js": "^2.0.0"
+  }
+}
